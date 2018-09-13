@@ -1,0 +1,26 @@
+{
+  "name": "HSPodDemo",
+  "version": "0.1.0",
+  "summary": "呵呵呵啦啦啦",
+  "description": "更新测试而已啥啥啥",
+  "homepage": "https://github.com/xlym33/HSPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xlym33": "xlym33@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/xlym33/HSPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HSPodDemo/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}
