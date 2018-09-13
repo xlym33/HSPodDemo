@@ -1,6 +1,6 @@
 {
   "name": "HSPodDemo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "呵呵呵啦啦啦",
   "description": "更新测试而已啥啥啥",
   "homepage": "https://github.com/xlym33/HSPodDemo",
@@ -13,12 +13,14 @@
   },
   "source": {
     "git": "https://github.com/xlym33/HSPodDemo.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "HSPodDemo/Classes/**/*",
+  "vendored_frameworks": [
+    "HSPodDemo/Classes/Detect.framework"
+  ],
   "frameworks": [
     "UIKit",
     "Foundation"

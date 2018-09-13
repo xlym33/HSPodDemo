@@ -28,7 +28,9 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HSPodDemo/Classes/**/*'
+  s.vendored_frameworks = ['HSPodDemo/Classes/Detect.framework']
+
+  #s.source_files = 'HSPodDemo/Classes/**/*'
   
   # s.resource_bundles = {
   #   'HSPodDemo' => ['HSPodDemo/Assets/*.png']

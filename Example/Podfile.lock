@@ -9,7 +9,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HSPodDemo (0.1.0)
+  - HSPodDemo (0.2.0)
   - Specta (1.0.7)
 
 DEPENDENCIES:
@@ -34,7 +34,7 @@ SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HSPodDemo: 9a45b0e096a0d9044e548a46c5fbc4728db00d14
+  HSPodDemo: e7284b3611f79ef7db033d8ad04a39b57464904c
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
 PODFILE CHECKSUM: 7b55cf4256b5f566e21b5ad3b54db4eb02a19b24
