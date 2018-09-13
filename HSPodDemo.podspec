@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HSPodDemo'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '呵呵呵啦啦啦'
 
 # This description is used to generate tags and improve search results.

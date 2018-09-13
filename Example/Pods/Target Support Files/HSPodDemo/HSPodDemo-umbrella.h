@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Detect.h"
 #import "DetectFace.h"
 
 FOUNDATION_EXPORT double HSPodDemoVersionNumber;

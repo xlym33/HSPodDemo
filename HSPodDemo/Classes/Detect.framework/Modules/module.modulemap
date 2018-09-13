@@ -1,0 +1,6 @@
+framework module Detect {
+  umbrella header "Detect.h"
+
+  export *
+  module * { export * }
+}
